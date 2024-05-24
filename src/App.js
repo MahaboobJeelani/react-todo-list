@@ -9,17 +9,7 @@ import Todotask from './Todotaskfil/Todotask'
 const App = () => {
   return (
     <div>
-      {/* <Tabs/> */}
-      {/* <Todolist/> */}
-
-
-      {/* <Stopwatch /> */}
-
-      {/* <Jokes/> */}
-
       <Todotaskfil />
-
-      {/* <Todotask/> */}
     </div>
   )
 }
